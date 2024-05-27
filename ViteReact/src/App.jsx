@@ -1,8 +1,13 @@
 
+import Chai from "./Chai" ;
 
 function App() {
   return (
-    <h1> launching react project using Vite| Nehal Jain </h1>
+    <div>
+      <h1> launching react project using Vite| Nehal Jain </h1>
+      <Chai/>
+    </div>
+    
   )
 }
 
